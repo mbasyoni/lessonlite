@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "title": "Water moving through our world",
+  "source": "Evaporation changes liquid water into water vapour. Energy from the Sun helps water evaporate from oceans, lakes and other surfaces.\n\nCondensation happens when water vapour cools and becomes tiny liquid droplets. Clouds contain droplets or ice crystals.\n\nPrecipitation returns water from clouds to the ground as rain, snow or other forms. Water can collect in rivers, seep into the ground, or return to the ocean.",
+  "cards": [
+    {
+      "sourceIndex": 0,
+      "heading": "Changes of state",
+      "terms": "evaporation, water vapour",
+      "question": "What happens to water during evaporation?",
+      "answer": "Liquid water changes into water vapour."
+    },
+    {
+      "sourceIndex": 1,
+      "heading": "",
+      "terms": "",
+      "question": "What is condensation?",
+      "answer": "Water vapour cools and becomes liquid droplets."
+    }
+  ]
+}
