@@ -1,0 +1,72 @@
+{
+  "project": "LessonLite",
+  "version": "0.1.0",
+  "revision": "audit-fix-1-public",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 43,
+      "sha256": "4ab6d9ae74f548004e57255738a2d56fcedd6a90a94429e2bb93850b55aa4c94"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1080,
+      "sha256": "595754e80042f7b44d7f411fa32a315c55a3a49bfcf2979906c697c197fe621f"
+    },
+    {
+      "path": "PROJECT_STORY.md",
+      "bytes": 2531,
+      "sha256": "c7e1b7dc1b982cb0d49b387e5647731c2dce236e675d145dda7ca6f61936f2e2"
+    },
+    {
+      "path": "QA.md",
+      "bytes": 2860,
+      "sha256": "f79655d86f551ecec919abf977994e16ad18f1cac889745fc896e07c96c26c69"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3860,
+      "sha256": "8110d0e676a8a29f11c463d19edc2ffe63f7abf41047f5e2b34d684591697a0c"
+    },
+    {
+      "path": "app.js",
+      "bytes": 6824,
+      "sha256": "70da344fe57590e9f000da5ee6144ed1681b94075b63d81879c2ee649d2c0776"
+    },
+    {
+      "path": "core.js",
+      "bytes": 5713,
+      "sha256": "3629bdcf31356a3916afcb5a7e426ff07e09cf78f45f5d199b7622980f2ff93e"
+    },
+    {
+      "path": "evidence/managed-desktop.png",
+      "bytes": 51254,
+      "sha256": "26985e2e4c9d0e1456ae24751a70f9af6de3a908f5bca32897a7ccd8aea99d6b"
+    },
+    {
+      "path": "evidence/qa-project.json",
+      "bytes": 938,
+      "sha256": "9872e8b4c2d2a2b67cf1141e686f8f6f38c36fbc222ab32874833d16b10d5c06"
+    },
+    {
+      "path": "evidence/qa-study-pack.html",
+      "bytes": 3318,
+      "sha256": "b001f6b81bb4e14cfd4fc8205f1c9433135024f037db98b9e86fb6ddb72434a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4301,
+      "sha256": "2dcf30145e3b1008491dc579b1cc2801721031c5bf3378da072f33dcefadd0ce"
+    },
+    {
+      "path": "style.css",
+      "bytes": 3751,
+      "sha256": "995cb06885820c3e0ed7e59b98a8e277d8793151604d9d0a13e6adde5e69aef8"
+    },
+    {
+      "path": "tests/core.test.cjs",
+      "bytes": 5486,
+      "sha256": "be5aad60b628912de5c3bc7fdf6b54148e05f5eeef4bd86a1bec945899a51de8"
+    }
+  ]
+}
