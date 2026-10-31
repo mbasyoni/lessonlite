@@ -36,4 +36,4 @@ For static hosting, serve the four runtime files (`index.html`, `style.css`, `co
 
 ## Credits and origin
 
-All application code and the synthetic water-cycle example were created for this candidate on 30 October 2026, within the stated AccessED Hacks event window. Built with OpenAI assistance for design, coding, testing and documentation. No commercial ImpedanceIQ source, research datasets, trained model weights or third-party application code was reused. Runtime has no third-party dependencies. System fonts only. New code is offered under MIT; this license does not grant rights to notes users import.
+All application code and the synthetic water-cycle example were created for this candidate on 30 October 2026, within the stated AccessED Hacks event window. See [AI credits](PROJECT_STORY.md#built-during-the-event). No commercial ImpedanceIQ source, research datasets, trained model weights or third-party application code was reused. Runtime has no third-party dependencies. System fonts only. New code is offered under MIT; this license does not grant rights to notes users import.
